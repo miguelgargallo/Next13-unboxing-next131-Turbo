@@ -1,3 +1,11 @@
+EP3 | Pencil TV 🔴 Hoy unboxing de Next 13.1 el framework de React!! Javascript!! Vercel!! y Turbo!!
+- Visita la web: https://framework-pylar.vercel.app/
+- Lee el código: https://github.com/miguelgargallo/Next13-unboxing-next131-Turbo
+- Usa el Framework:
+```
+git clone https://github.com/miguelgargallo/Next13-unboxing-next131-Turbo
+```
+
 # Next.js + Turbopack App Directory Playground
 
 [Turbopack](https://turbo.build/pack) is a new incremental bundler optimized for JavaScript and TypeScript, written in Rust by the creators of Webpack and Next.js at [Vercel](https://vercel.com). On large applications Turbopack updates 10x faster than Vite and 700x faster than Webpack ([benchmark](https://turbo.build/pack/docs/benchmarks)). For the biggest applications the difference grows even more stark with updates up to 20x faster than Vite.
